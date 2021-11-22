@@ -36,6 +36,8 @@ npm run dev
 
 
 
+
+
 Na pasta Frontend:
 
 npx create-react-app covid .
