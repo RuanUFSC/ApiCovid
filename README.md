@@ -16,7 +16,9 @@ No terminal, usar os seguintes comandos:
 npm init -y
 
 npm i cors dotenv express express-validator pg sequelize uuid
+
 npm i nodemon -D 
+
 npm install --save multer
 
 
