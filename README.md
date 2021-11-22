@@ -5,16 +5,13 @@ Na pasta Backend:
 Criar arquivo .ENV com as informações abaixo:
 
 DEV_DB_NAME=NOME DO BANCO DE DADOS
-
 DEV_DB_USER=postgres
-
 DEV_DB_PASSWORD=DIGITAR A SENHA DO POSTGRES
-
 DEV_DB_HOST=localhost
-
 DEV_DB_PORT=5432
-
 DEV_PORT=3333
+
+No terminal, usar os seguintes comandos:
 
 npm init -y
 
