@@ -2,7 +2,8 @@ ORIENTAÇÕES
 
 Na pasta Backend:
 
-.ENV
+Criar arquivo .ENV com as informações abaixo:
+
 DEV_DB_NAME=NOME DO BANCO DE DADOS
 DEV_DB_USER=postgres
 DEV_DB_PASSWORD=DIGITAR A SENHA DO POSTGRES
