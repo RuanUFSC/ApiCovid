@@ -1,5 +1,7 @@
 ORIENTAÇÕES
 
+- Banco de dados utilizado foi o postgresql.
+
 Na pasta Backend:
 
 Criar arquivo .ENV com as informações abaixo:
