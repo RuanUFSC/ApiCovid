@@ -2,7 +2,6 @@ import api from './api'
 
 export function LoadDatas() {
     return new Promise((resolve, reject) => {
-        alert('Arquivo importado com sucesso')
         api.get('/data').then((response, request) => {
             resolve([false, response.data])
         }).catch((err) => {
