@@ -18,7 +18,7 @@
     margin: auto;
     height: auto;
     display: grid;
-    grid-template-columns: 85px 85px 85px 95px 85px 50px 25px 70px 63px 70px 75px 65px 65px 65px 45px 45px 45px 45px;
+    grid-template-columns:85px 85px 75px 85px 85px 50px 25px 70px 73px 70px 75px 65px 65px 65px 45px 45px 45px 45px;
     text-align: center;
     padding: 10px 10px;
     border-bottom: 0.5px solid silver;
@@ -37,7 +37,7 @@
 
 .data-container {
     display: grid;
-    grid-template-columns: 90px 90px 90px 90px 90px 50px 20px 80px 43px 90px 65px 60px 65px 65px 45px 45px 45px 45px;
+    grid-template-columns:90px 90px 80px 80px 90px 50px 20px 80px 63px 90px 65px 60px 65px 65px 45px 45px 45px 45px;
     text-align: center;
     padding: 5px 0px 0px 0px;
 }
