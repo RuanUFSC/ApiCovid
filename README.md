@@ -1,6 +1,6 @@
 ORIENTAÇÕES
 
-- Banco de dados utilizado foi o postgresql.
+- Banco de dados utilizado foi o postgresql, tabela CovidFinal
 
 Na pasta Backend:
 
