@@ -30,7 +30,10 @@ No arquivo package.json adicionar o seguinte script
 
 	"dev": "nodemon server.js"
 
+Após isso, executar no terminal:
+
 npm run dev
+
 
 
 Na pasta Frontend:
@@ -40,7 +43,9 @@ npx create-react-app covid .
 Na pasta covid, apagar as pastas src e public e substituir pelas do Github
 
 cd covid
+
 npm install react-router-dom@5.2.0
-cd covid
+
 npm install axios
+
 npm start
